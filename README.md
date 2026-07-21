@@ -45,3 +45,4 @@ Merged PRs:
 **Datasets:**
 
 * [Bespoke-Stratos-17K](https://www.kaggle.com/datasets/archlegend/bespoke-stratos-17k)
+* [UltraData-Math-L3-Multi-Style Synthetic](https://www.kaggle.com/datasets/archlegend/udm-l3-mss)
