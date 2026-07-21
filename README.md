@@ -39,5 +39,8 @@ Merged PRs:
    * **Description:** Addressed a LaTeX notation error within the documentation strings of jax.scipy.stats.multivariate_normal.pdf and jax.scipy.stats.multivariate_normal.logpdf. The documentation blocks omitted the square root grouping over the denominator term of the normalization factor, resulting in a display discrepancy from standard multivariate normal definitions and upstream SciPy references.
    * **Fix Details:** Corrected the mathematical syntax blocks inside jax/_src/scipy/stats/multivariate_normal.py to explicitly frame the denominator matrix expression inside a proper \sqrt{} layout block: \frac{1}{\sqrt{(2\pi)^k \det\Sigma}}. This was an isolated documentation improvement with no runtime footprint modifications. Verified passing states across all existing analytical validation suites (scipy_stats_test.py).
 
---
+
 ## Kaggle contributions
+
+**Datasets:**
+
