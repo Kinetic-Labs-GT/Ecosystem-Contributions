@@ -46,3 +46,5 @@ Merged PRs:
 
 * [Bespoke-Stratos-17K](https://www.kaggle.com/datasets/archlegend/bespoke-stratos-17k)
 * [UltraData-Math-L3-Multi-Style Synthetic](https://www.kaggle.com/datasets/archlegend/udm-l3-mss)
+* [Math Pile](https://www.kaggle.com/datasets/archlegend/math-pile)
+* [GAIR-LIMO](https://www.kaggle.com/datasets/archlegend/gair-limo)
